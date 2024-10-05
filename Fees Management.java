@@ -7,7 +7,7 @@ package fees_management;
 
 /**
  *
- * @author Abhishek Prasad
+ * @author Ashish Shukla
  */
 public class Fees_management {
 
